@@ -1,0 +1,11 @@
+# Ignore auto-generated files
+storage.bin
+vdisk.meta
+hash_index.txt
+cache/
+temp_*
+*.enc
+recovered_*
+*.decrypted
+__pycache__/
+*.pyc
