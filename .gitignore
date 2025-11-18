@@ -1,4 +1,4 @@
-# Ignore auto-generated files
+# Auto-generated files
 storage.bin
 vdisk.meta
 hash_index.txt
@@ -9,3 +9,5 @@ recovered_*
 *.decrypted
 __pycache__/
 *.pyc
+*.pyo
+.DS_Store
